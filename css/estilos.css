@@ -260,11 +260,11 @@ footer .container{
         position: static;
         text-align: center;
     }
-/*     
+    
     .menu-opcoes ul li{
         display: inline-block;
         margin: 5px;
-    } */
+    }
     
     .busca, .menu-departamentos, .banner-destaque img {
         margin-right: 0;
